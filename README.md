@@ -1,4 +1,14 @@
-## Hi there 👋
+## Boas Vindas ao meu Perfil! 🇧🇷 🇧🇷
+
+Meu nome é: Talita Cumi
+
+Estou estudando no Alura.
+Estou me desenvolvendo na Linguagem JavaScript.
+Utilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
+
+ ## Você pode entrar em contato comigo:
+
+ Gmail: talita.nascimento.santos@escola.pr.gov.br
 
 <!--
 **Talita-Cumi/Talita-Cumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
